@@ -21,8 +21,8 @@ function App() {
       }}
     >
       <Title style={{ textAlign: 'center' }}>TODO APP with REDUX</Title>
-      <Filters />
-      <Divider />
+        <Filters />
+        <Divider />
       <TodoList />
     </div>
   );
